@@ -1,0 +1,5 @@
+{
+  "min_supported_version": 2,
+  "latest_version": 2,
+  "update_url": "https://raw.githubusercontent.com/mdrabbialmamun/trash/refs/heads/main/easy_rx.apk",
+}
