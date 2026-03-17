@@ -1,0 +1,106 @@
+[
+
+  {
+    "title": "ADA Standards of Care in Diabetes (Main Guideline)",
+    "metaText": "Comprehensive global standards for the prevention, diagnosis, and treatment of diabetes.",
+    "imageName": "logo_nice",
+    "url": "https://diabetesjournals.org/care/issue/47/Supplement_1"
+  },
+  {
+    "title": "Management of Diabetes in Pregnancy (ADA Guideline)",
+    "metaText": "The prevalence of diabetes in pregnancy has been increasing in the U.S. in parallel with the worldwide epidemic of obesity.",
+    "imageName": "logo_dghs",
+    "url": "https://diabetesjournals.org/care/article/47/Supplement_1/S282/153948/15-Management-of-Diabetes-in-Pregnancy-Standards"
+  },
+
+
+  {
+    "title": "Diagnosis and Classification of Diabetes (ADA Guideline)",
+    "metaText": "Diabetes mellitus is a group of metabolic disorders of carbohydrate metabolism in which glucose is both underutilized as an energy source and overproduced due to inappropriate gluconeogenesis and glycogenolysis, resulting in hyperglycemia",
+    "imageName": "logo_who",
+    "url": "https://diabetesjournals.org/care/article/47/Supplement_1/S20/153954/2-Diagnosis-and-Classification-of-Diabetes"
+  },
+
+
+
+
+  {
+    "title": "WHO Guideline for the pharmacological treatment of hypertension in adults",
+    "metaText": "More people die each year from cardiovascular diseases than from any other cause. Over three quarters of heart disease and stroke-related deaths occur in low-income and middle-income countries.",
+    "imageName": "logo_bmrc",
+    "url": "https://www.who.int/publications/i/item/9789240033986"
+  },
+  {
+    "title": "National Guideline on Hypertension (NCDC & DGHS)",
+    "metaText": "Hypertension or elevated blood pressure significantly increases the risk of disease of the heart, brain, kidney and other organs and it is the leading cause of death globally.",
+    "imageName": "logo_cdc",
+    "url": "https://www.prescribingcompanion.com/bangladesh/other-common-clinical-conditions/hypertension-national-guideline/"
+  },
+  {
+    "title": "National Guideline on Diabetes Mellitus (NCDC & DGHS)",
+    "metaText": "Diabetes is a major health issue that has reached a pandemic level. In Bangladesh, the treatment of diabetes is mainly provided by general physicians and specialist physicians, including endocrinologists and diabetologists, through government and private healthcare facilities.",
+    "imageName": "logo_aha",
+    "url": "https://www.prescribingcompanion.com/bangladesh/other-common-clinical-conditions/diabetes-mellitus-national-guideline/"
+  }
+
+  {
+    "title": "National Guideline and Operational Manual for Tuberculosis (NCDC & DGHS)",
+    "metaText": "Tuberculosis (TB) continues to be a global public health problem, particularly in the developing countries. Nearly one-third of the global population (i.e., two billion people) is infected with Mycobacterium tuberculosis (MTB) and is at risk of developing the disease. ",
+    "imageName": "logo_aha",
+    "url": "https://www.prescribingcompanion.com/bangladesh/other-common-clinical-conditions/tuberculosis-national-guideline-and-operational-manual/"
+  }
+  {
+    "title": "National Guideline on Clinical Management of Chikungunya Fever (NCDC & DGHS)",
+    "metaText": "Chikungunya fever (CF) is a viral illness caused by an arbovirus transmitted by the Aedes mosquitoes. The disease was documented first time in the form of an outbreak in Tanzania.",
+    "imageName": "logo_aha",
+    "url": "https://www.prescribingcompanion.com/bangladesh/other-common-clinical-conditions/chikungunya-fever-national-guideline/"
+  }
+
+  {
+    "title": "National Guideline for Animal Bite Management in Bangladesh 2021",
+    "metaText": "Rabies is a fatal viral disease. Globally, every year many people and livestock die of this disease and so is also Bangladesh is ranked third in the world list for rabies infection.",
+    "imageName": "logo_aha",
+    "url": "https://www.prescribingcompanion.com/bangladesh/other-common-clinical-conditions/animal-bite-management-national-guideline/"
+  }
+  {
+    "title": "Revised Malaria Treatment Regimen-2017 (CDC, DGHS)",
+    "metaText": "Based on the Revised Malaria Control strategy of early diagnosis and prompt treatment (EDPT) the then National Malaria Control Program, Bangladesh adopted the treatment regimen in 1994 through a consensus workshop..",
+    "imageName": "logo_aha",
+    "url": "https://www.prescribingcompanion.com/bangladesh/other-common-clinical-conditions/malaria-revised-treatment-regimen/"
+  }
+
+{
+    "title": "National Guideline for Clinical Management of Dengue Syndrome",
+    "metaText": "Dengue is a disease caused by an arbovirus, which has four serotypes and that is transmitted by Aedes mosquito.",
+    "imageName": "logo_aha",
+    "url": "https://www.prescribingcompanion.com/bangladesh/other-common-clinical-conditions/dengue-syndrome-national-guideline/"
+  }
+{
+    "title": "National Guidelines For The Management Of Tuberculosis In Children",
+    "metaText": "The 2020 WHO Global Tuberculosis Report estimates of 10 million people fell ill from TB and among them 56% were men, 32% were women and 12% were children",
+    "imageName": "logo_aha",
+    "url": "https://www.prescribingcompanion.com/bangladesh/other-common-clinical-conditions/tuberculosis-in-children/"
+  }
+
+{
+    "title": "Type 2 diabetes in adults: management (NICE 2026)",
+    "metaText": "This guideline covers care and management for adults (aged 18 and over) with type 2 diabetes.",
+    "imageName": "logo_aha",
+    "url": "https://www.nice.org.uk/guidance/ng28"
+  }
+{
+    "title": "Type 1 diabetes in adults: diagnosis and management (NICE 2026)",
+    "metaText": "This guideline covers care and treatment for adults (aged 18 and over) with type 1 diabetes.",
+    "imageName": "logo_aha",
+    "url": "https://www.nice.org.uk/guidance/ng17"
+  }
+
+{
+    "title": "Hypertension in adults: diagnosis and management (NICE 2026)",
+    "metaText": "This guideline covers identifying and treating primary hypertension (high blood pressure) in people aged 18 and over, including people with type 2 diabetes.",
+    "imageName": "logo_aha",
+    "url": "https://www.nice.org.uk/guidance/ng136"
+  }
+
+
+]
